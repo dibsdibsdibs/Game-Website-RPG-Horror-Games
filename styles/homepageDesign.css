@@ -1,0 +1,97 @@
+/*Design for Homepage*/
+
+#promotional {
+    display: flex;
+    color: white;
+    background-color: black;
+    font-family: Chalkduster;
+    align-items: center;
+    white-space: nowrap;
+    margin-bottom: 50px;
+}
+
+#promoPic {
+    width: 100%;
+}
+
+#promoText {
+    padding-left: 100px;
+    text-align: center;
+}
+
+#promoTitle {
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+
+#promoDesc {
+    margin-top: 0px;
+    font-size: 25px;
+}
+
+.section {
+    max-width: none;
+    margin: 0px 50px 0px 50px;
+    padding: 10px 10px 10px 25px;
+    height: 300px;
+    border-radius: 25px;
+    color: white;
+}
+
+#featGame {
+    background: rgba(255, 255, 255, 0.1);
+    display: flex;
+}
+
+#featDesc {
+    font-size: 15px;
+    font-family: Aozora;
+    margin: 25px 0px 25px 25px;
+}
+
+.gameTitle {
+    font-family: Nanda;
+    font-size: 30px;
+    margin: 0px;
+}
+
+#homeOthers {
+    text-align: center;
+    background: rgba(25, 146, 135, 0.1);
+    align-items: middle;
+    display: flex;
+}
+
+.picsOthers {
+    height: 250px;
+    margin-left: 25px;
+}
+
+#homeNews {
+    background: rgba(152, 27, 26, 0.1);
+    font-family: Nanda;
+}
+
+.newsTag {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.newsContent {
+    font-size: 20px;
+    margin: 10px 30px 30px 30px;
+}
+
+.homeButton {
+    color: white;
+    font-family: Willincki;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 50px;
+    float: right;
+}
+
+p.homeButton:hover {
+    color: rgb(152, 27, 26);
+}

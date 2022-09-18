@@ -1,0 +1,43 @@
+/*Design for About page*/
+
+#aboutvg {
+    display: flex;
+    font-family: Nanda;
+    color: white;
+    font-size: 30px;
+}
+
+#vgpersonpic {
+    height: 300px;
+    margin: 50px 50px 0px 50px;
+}
+
+h2 {
+    font-family: Willincki;
+}
+
+h2:hover {
+    color: rgb(152, 27, 26);
+}
+
+.socmed {
+    display: flex;
+    color: white;
+    font-size: 25px;
+    font-family: Nanda;
+    padding: 10px 50px 10px 50px;
+    align-items: center;
+}
+
+.socmedpic {
+    height: 50px;
+    margin-right: 50px;
+}
+
+.socmedpic:hover {
+    height: 75px;
+}
+
+a:hover {
+    color: rgb(25, 146, 135);
+}

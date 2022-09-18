@@ -1,0 +1,53 @@
+/*Design for Collection page*/
+
+.promo {
+    display: flex;
+    background-color: black;
+    color: white;
+    font-family: Chalkduster;
+    height: 300px;
+    padding: 20px 20px 20px 20px;
+    justify-content: space-around;
+}
+
+#promoTitle {
+    font-size: 30px;
+}
+
+#promoText {
+    font-size: 20px;
+}
+
+#game3 {
+    font-family: Willincki;
+    font-size: 20px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.dl {
+    font-family: Nanda;
+    font-size: 25px;
+}
+
+.dl:hover {
+    color: rgb(152, 27, 26);
+}
+
+.gameCollection {
+    text-align: center;
+    align-items: middle;
+    display: flex;
+    font-family: Nanda;
+    color: white;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
+.game {
+    height: 250px;
+}

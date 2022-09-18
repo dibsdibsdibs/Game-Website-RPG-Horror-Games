@@ -1,0 +1,29 @@
+/*Design for Download page*/
+
+h2 {
+    font-family: Willincki;
+}
+
+#profile {
+    height: 300px;
+    margin: 50px 50px 0px 50px;
+}
+
+#aboutGame {
+    display: flex;
+    font-family: Nanda;
+    color: white;
+    font-size: 30px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 25px;
+    font-family: Willincki;
+}
+
+#dllink:hover {
+    color: rgb(25, 146, 135);
+}

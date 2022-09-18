@@ -1,0 +1,56 @@
+/*Design for Log In page*/
+
+#login {
+    max-width: none;
+    margin: 10px 25px 10px 25px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: Willincki;
+    font-size: 35px;
+}
+
+#inputblock {
+    font-family: Nanda;
+    font-size: 30px;
+    margin: 0px 50px 0px 50px;
+    color: white;
+}
+
+input {
+    background-color: black;
+    color: white;
+    font-family: Tahoma;
+    font-size: 25px;
+    margin: 10px 10px 10px 10px;
+}
+
+#toggle {
+    font-size: 20px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+#here {
+    font-size: 30px;
+    font-family: Nanda;
+}
+
+#submit {
+    font-family: Willincki;
+    font-size: 25px;
+}
+
+#submit:hover {
+    color: rgb(152, 27, 26);
+}
+
+#here:hover {
+    color: rgba(25, 146, 135);
+}
